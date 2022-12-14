@@ -9,7 +9,7 @@
 
 ## Produce generalized trading bots for users
   ### Types of bots:
-  - DCA - buys a set amount of ASA at set time interval (e.g. spend 10 algos every hour on QuantCoin)
+  - [DCA](https://github.com/quantasaurus/DCA_bot) - buys a set amount of ASA at set time interval (e.g. spend 10 algos every hour on QuantCoin)
   - Nibbler - buys a set amount of ASA when price drops X%
   - Buy the dip - DCA bot that compares price against previous day and buys dip if present
   - Speedy launch buy - Bot meant to quickly make one buy for new pool/token launch
