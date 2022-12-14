@@ -1,7 +1,7 @@
 # QuantCoin Overview
 
 ## Provide tooling and visualization for algorand
-- vanity wallet generator
+- [vanity wallet generator](https://github.com/quantasaurus/vanity_wallet_generator)
 - various wallet scraping/viz tools
 - backtesting framework over past 7 days 
 - Accurate price impact quotes
