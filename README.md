@@ -4,6 +4,8 @@
 - vanity wallet generator
 - various wallet scraping/viz tools
 - backtesting framework over past 7 days 
+- Accurate price impact quotes
+- Wallet message scraping
 
 ## Produce generalized trading bots for users
   ### Types of bots:
@@ -14,6 +16,7 @@
   - SMA 50/200 Buy/Sell
   - Grid bot
   - Deadman bot
+  - Iceberg Seller
   
 ## Hold bot competitions
   - Speed (release a test ASA and pool.  first bot to buy wins.  QuantCoin for entry fee)
