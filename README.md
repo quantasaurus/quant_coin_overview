@@ -9,14 +9,14 @@
 
 ## Produce generalized trading bots for users
   ### Types of bots:
-  - DCA
-  - Nibbler
-  - Buy the dip
-  - Speedy launch buy
-  - SMA 50/200 Buy/Sell
-  - Grid bot
-  - Deadman bot
-  - Iceberg Seller
+  - DCA - buys a set amount of ASA at set time interval (e.g. spend 10 algos every hour on QuantCoin)
+  - Nibbler - buys a set amount of ASA when price drops X%
+  - Buy the dip - DCA bot that compares price against previous day and buys dip if present
+  - Speedy launch buy - Bot meant to quickly make one buy for new pool/token launch
+  - SMA 50/200 Buy/Sell - Uses 50 and 200 SMA for buy/sell triggers.  
+  - Grid bot - If price < x then buy; if price > y then sell
+  - Deadman bot - Immediate dumpage when trigger met
+  - Iceberg Seller - Splits sell order into chunks and sells at specified interval
   
 ## Hold bot competitions
   - Speed (release a test ASA and pool.  first bot to buy wins.  QuantCoin for entry fee)
