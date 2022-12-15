@@ -1,9 +1,11 @@
-# QuantCoin Overview
+# Quant Tools Overview
 
 ## Provide tooling and visualization for algorand
 - [vanity wallet generator](https://github.com/quantasaurus/vanity_wallet_generator)
-- various wallet scraping/viz tools
-- backtesting framework over past 7 days 
+- various wallet scraping analytics
+- viz tools
+- strategy backtesting framework over past 7 days 
+- strategy backtesting framework for entire ASA history
 - Accurate price impact quotes
 - Wallet message scraping
 
@@ -17,14 +19,12 @@
   - Grid bot - If price < x then buy; if price > y then sell
   - Deadman bot - Immediate dumpage when trigger met
   - Iceberg Seller - Splits sell order into chunks and sells at specified interval
+  - Follower Bot - Set another wallet to watch and follower bot will make the same trades
+  - Revenge Bot - Set another wallet to watch and as soon as they buy ASA this bot sells same ASA
   
-## Hold bot competitions
-  - Speed (release a test ASA and pool.  first bot to buy wins.  QuantCoin for entry fee)
-  - Trading (release a test ASA and pool.  Bot to make most profit wins.  QuantCoin for entry fee)
-  
-## QuantCoin Liquidity Automated Trading
-  - QuantCoin to be utilized in liquidity pools with assets predicted to increase in value
-  - Increase in other asset values also increases QuantCoin value
-  - Simple linear regression model at first to pick which assets to provide liquidity for
-  - Rebalance possibly daily or as necessary
+## Future bot competitions
+  - Speed (release a test ASA and pool.  first bot to buy wins all entry fees)
+  - Trading (release a test ASA and pool.  Bot to make most profit wins all entry fees)
+
+
   
