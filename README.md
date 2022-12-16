@@ -5,7 +5,7 @@
 - various wallet scraping analytics
 - viz tools
 - strategy backtesting framework over past 7 days 
-- strategy backtesting framework for entire ASA history
+- [strategy backtesting framework for 6 months](https://github.com/quantasaurus/strategy_backtest_long)
 - Accurate price impact quotes
 - Wallet message scraping
 
