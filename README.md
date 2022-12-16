@@ -2,7 +2,7 @@
 
 ## Provide tooling and visualization for algorand
 - [vanity wallet generator](https://github.com/quantasaurus/vanity_wallet_generator)
-- Normalization and Correlation of multiple assets
+- [Normalization and Correlation of multiple assets](https://github.com/quantasaurus/normalization_and_correlation)
 - viz tools
 - strategy backtesting framework over past 7 days 
 - [strategy backtesting framework for 6 months](https://github.com/quantasaurus/strategy_backtest_long)
